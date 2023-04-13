@@ -1,0 +1,9 @@
+# y, xstart, xend, rotation, color, label, va,  bed
+ .8,     .1,	.9,       0,     , Fo47,   top, Fo47.bed
+ .6,     .1,    .9,       0,     , UK0001, top, UK0001.bed
+ .4,     .1,    .9,       0,     , RIKEN, bottom, RIKEN_160527.bed	  	 
+ .2,     .1,    .9,       0,     , Fol4287, bottom, Fol4287.bed
+# edges
+e, 0, 1, Fo47.UK0001.anchors.simple
+e, 1, 2, RIKEN_160527.UK0001.anchors.simple
+e, 2, 3, RIKEN_160527.Fol4287.anchors.simple

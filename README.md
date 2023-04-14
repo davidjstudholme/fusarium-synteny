@@ -1,14 +1,14 @@
 # fusarium_synteny
 Here is the code used to generate an overview of the synteny between [our genome assembly](https://doi.org/10.1128/mra.00904-19) of *Fusarium oxysporum* f. sp. *cubense* TR4 versus several relevant reference genome sequence assemblies.
 
-* Warmington RJ, Kay W, Jeffries A, et al. High-Quality Draft Genome Sequence of the Causal Agent of the Current Panama Disease Epidemic. Microbiol Resour Announc. 2019;8(36):e00904-19. Published 2019 Sep 5. doi:10.1128/MRA.00904-19 
-* Asai S, Ayukawa Y, Gan P, et al. High-Quality Draft Genome Sequence of Fusarium oxysporum f. sp. cubense Strain 160527, a Causal Agent of Panama Disease. Microbiol Resour Announc. 2019;8(29):e00654-19. Published 2019 Jul 18. doi:10.1128/MRA.00654-19
-* Wang B, Yu H, Jia Y, et al. Chromosome-Scale Genome Assembly of Fusarium oxysporum Strain Fo47, a Fungal Endophyte and Biocontrol Agent. Mol Plant Microbe Interact. 2020;33(9):1108-1111. doi:10.1094/MPMI-05-20-0116-A
-* Ma LJ, van der Does HC, Borkovich KA, et al. Comparative genomics reveals mobile pathogenicity chromosomes in Fusarium. Nature. 2010;464(7287):367-373. doi:10.1038/nature08850
+* Warmington RJ, Kay W, Jeffries A, et al. High-Quality Draft Genome Sequence of the Causal Agent of the Current Panama Disease Epidemic. *Microbiol Resour Announc.* 2019;8(36):e00904-19. Published 2019 Sep 5. doi:10.1128/MRA.00904-19 
+* Asai S, Ayukawa Y, Gan P, et al. High-Quality Draft Genome Sequence of *Fusarium oxysporum* f. sp. *cubense* Strain 160527, a Causal Agent of Panama Disease. *Microbiol Resour Announc.* 2019;8(29):e00654-19. Published 2019 Jul 18. doi:10.1128/MRA.00654-19
+* Wang B, Yu H, Jia Y, et al. Chromosome-Scale Genome Assembly of *Fusarium oxysporum* Strain Fo47, a Fungal Endophyte and Biocontrol Agent. *Mol Plant Microbe Interact* 2020;33(9):1108-1111. doi:10.1094/MPMI-05-20-0116-A
+* Ma LJ, van der Does HC, Borkovich KA, et al. Comparative genomics reveals mobile pathogenicity chromosomes in *Fusarium*. *Nature.* 2010;464(7287):367-373. doi:10.1038/nature08850
 
 It uses the MCscan fundtion with the JCVI libraries: 
 * https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version) 
-* Tang et al. (2015). jcvi: JCVI utility libraries. Zenodo. 10.5281/zenodo.31631.[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.31631.svg)](https://doi.org/10.5281/zenodo.31631)
+* Tang et al. (2015). jcvi: JCVI utility libraries. *Zenodo.* 10.5281/zenodo.31631.[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.31631.svg)](https://doi.org/10.5281/zenodo.31631)
 
 
 ## Download the CDS and GFF files from NCBI:

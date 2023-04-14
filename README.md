@@ -8,7 +8,7 @@ Here is the code used to generate an overview of the synteny between [our genome
 
 It uses the MCscan fundtion with the JCVI libraries: 
 * https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version) 
-* Tang et al. (2015). jcvi: JCVI utility libraries. *Zenodo.* 10.5281/zenodo.31631.[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.31631.svg)](https://doi.org/10.5281/zenodo.31631)
+* Tang et al. (2015). jcvi: JCVI utility libraries. *Zenodo.* 10.5281/zenodo.31631. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.31631.svg)](https://doi.org/10.5281/zenodo.31631)
 
 
 ## Download the CDS and GFF files from NCBI:

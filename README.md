@@ -6,10 +6,11 @@ Here is the code used to generate an overview of the synteny between [our genome
 * Wang B, Yu H, Jia Y, et al. Chromosome-Scale Genome Assembly of *Fusarium oxysporum* Strain Fo47, a Fungal Endophyte and Biocontrol Agent. *Mol Plant Microbe Interact* 2020;33(9):1108-1111. doi:10.1094/MPMI-05-20-0116-A
 * Ma LJ, van der Does HC, Borkovich KA, et al. Comparative genomics reveals mobile pathogenicity chromosomes in *Fusarium*. *Nature.* 2010;464(7287):367-373. doi:10.1038/nature08850
 
-It uses the MCscan fundtion with the JCVI libraries: 
+![Karyotype comparison with labels](./karyotype-with-labels.png)
+
+It uses the MCscan function with the JCVI libraries: 
 * https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version) 
 * Tang et al. (2015). jcvi: JCVI utility libraries. *Zenodo.* 10.5281/zenodo.31631. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.31631.svg)](https://doi.org/10.5281/zenodo.31631)
-
 
 ## Download the CDS and GFF files from NCBI:
 Note that we can only use genome assemblies for which CDS have been provided. This eliminates most of the chromosome-scale assemblies in NCBI
